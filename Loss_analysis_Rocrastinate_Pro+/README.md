@@ -6,7 +6,6 @@
 * Pandas
 * Seaborn
 * Matplotlib
-* Seaborn
 * Когортный анализ
 * Юнит-экономика
 * Продуктовые метрики
